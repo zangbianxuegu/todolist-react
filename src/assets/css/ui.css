@@ -1,9 +1,9 @@
 .btn {
   display: block;
-  height: .3rem;
+  height: 0.3rem;
   color: #fff;
-  font-size: .14rem;
-  padding: 0 .1rem;
+  font-size: 0.14rem;
+  padding: 0 0.1rem;
 }
 
 .btn.btn-primary {
